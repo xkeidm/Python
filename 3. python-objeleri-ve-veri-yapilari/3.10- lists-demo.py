@@ -54,3 +54,5 @@ print(studentC[3])
 print(studentC[3][1])
 
 print(f"{studentA[0]} {studentA[1]} {2019-studentA[2]} yaşında ve not ortalaması {(studentA[3][0]+studentA[3][1]+studentA[3][2])/3}")
+
+print(studentC[3][1])
